@@ -14,7 +14,8 @@ cd testbuild && npm install
 <h2 align="center">main function</h2>
 
 ### 1. watch the html with gulp
-	<p>If we remove the script which has a relative path ,the base config of webpack will change. So we will reload server with gulp.</p>
+	If we remove the script which has a relative path ,the base config of webpack will change. So we will reload 
+	server with gulp.
 
 ### 2. reload when the static resources change
 	When the static resources change, browser will reload the resources.It is very convenient for us to code.
